@@ -2,7 +2,7 @@
 
 ## 1. Overview & Mission
 
-* **Product:** Project Silph Co.
+* **Product:** Pokemon Team Builder
 * **Mission:** To empower competitive Pokémon players to build, analyze, and optimize their teams using data-driven insights.
 * **Core Problem:** Team building is often based on guesswork and sifting through forums. There is no single, user-friendly tool that combines a team builder with *live* metagame analytics to help users *immediately* spot their team's statistical flaws and strengths.
 * **Target Audience:** "The Competitor"—a player who is active on battle simulators (like Pokémon Showdown) or participates in VGC. They care about optimization, metagame trends, and building the "best" possible team.
