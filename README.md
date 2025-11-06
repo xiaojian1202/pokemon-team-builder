@@ -1,4 +1,4 @@
-# Project Silph Co. Analytics Platform 📈
+# Pokemon Team Analytics Platform 📈
 
 A data-driven, full-stack application for competitive Pokémon team building, analytics, and optimization.
 
