@@ -42,3 +42,4 @@ This project is built using a modern, decoupled, full-stack architecture.
 | **Deployment** | Docker (Containerized services) |
 
 ### High-Level Architecture
+┌───────────────────┐ ┌───────────────────────────┐ ┌────────────────┐ │ GitHub Action │ │ Smogon Analytics │ │ PostgreSQL │ │ (Runs Daily) ├─────►│ (Python Scraper) ├─────►│ Database │ └───────────────────┘ └───────────────────────────┘ └───────┬────────┘ │ ┌───────────────────┐ ┌───────────────────────────┐ ┌────────▼────────┐ │ User Browser │ │ Spring Boot API │ │ (Read/Write) │ │ (React App) │◄────►│ (Java Backend) │◄─────┤ User Data & │ │ │ │ (Auth, Team Logic) │ │ Metagame Stats │ └───────────────────┘ └───────────────────────────┘ └─────────────────┘
